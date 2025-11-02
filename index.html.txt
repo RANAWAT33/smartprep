@@ -1,0 +1,5 @@
+<!doctype html>
+<html>
+  <head><title>SmartPrep</title></head>
+  <body><h1>Welcome to SmartPrep!</h1><p>Coming soon...</p></body>
+</html>
